@@ -25,7 +25,6 @@ The Whiteboard Project aims to create a digital whiteboard application that allo
 1. **Clone the repository:**
     ```bash
     https://github.com/Vijay6927/Real-Time-Collaborative-Whiteboard
-    cd Real-Time-Collaborative-Whiteboard
     ```
 
 2. **Install dependencies:**
