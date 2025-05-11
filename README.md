@@ -1,4 +1,4 @@
-# Task 4 : Real-Time Collaborative Whiteboard
+## Real-Time Collaborative Whiteboard
 
 ## Overview
 The Whiteboard Project aims to create a digital whiteboard application that allows users to collaborate in real-time, share ideas, and brainstorm effectively.
@@ -24,8 +24,8 @@ The Whiteboard Project aims to create a digital whiteboard application that allo
 
 1. **Clone the repository:**
     ```bash
-    https://github.com/kashish281/Whiteboard.git
-    cd whiteboard
+    https://github.com/Vijay6927/Real-Time-Collaborative-Whiteboard
+    cd Real-Time-Collaborative-Whiteboard
     ```
 
 2. **Install dependencies:**
